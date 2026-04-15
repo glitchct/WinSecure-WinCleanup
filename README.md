@@ -1,7 +1,5 @@
-# CleanUp
-## Read License before use!
+# WinSecure and WinCleanup
 
+WinSecure & WinCleanup is a CLI-Based cleaning and security program, designed to protect and cleanup your pc.
 
-CleanUp! is a CLI-Based Clean up program, to delete temporary files.
-
-Is your Computer full of Storage, and your temp files are high? Then Download CleanUp now!              
+I am not responsible for any kind of damage to your Device, Computer etc.. Proceed on your own risk.
